@@ -96,15 +96,3 @@ A dynamic blend of strategy and instinct in financial markets. Trading involves 
 # 🏆 GITHUB TROPHIES
 
 ![](https://github-profile-trophy.vercel.app/?username=bemreq&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-# 🖌️ RANDOM DEV QUOTE
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-# 📕 TOP CONTRIBUTED REPO
-
-![](https://github-contributor-stats.vercel.app/api?username=bemreq&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-# 👥 VISIT COUNTER
-
-[![](https://visitcount.itsvg.in/api?id=bemreq&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
